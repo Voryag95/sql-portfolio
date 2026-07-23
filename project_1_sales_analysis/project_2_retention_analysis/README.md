@@ -34,7 +34,7 @@ SELECT
     COUNT(DISTINCT Customer_ID) AS customers
 FROM cohort_data
 GROUP BY cohort_month, month_number
-ORDER BY cohort_month, month_number;![Uploading retention_result.png…]()
+ORDER BY cohort_month, month_number;
 
 
 ## Результат
