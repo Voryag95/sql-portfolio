@@ -1,7 +1,3 @@
-<img width="1920" height="1041" alt="retention_result" src="https://github.com/user-attachments/assets/21ea6500-fa4b-4607-b1cf-8cf2eae514a2" />
-
-
-
 # Проект 2: Когортный анализ (Retention)
 
 ## Описание
@@ -38,7 +34,9 @@ ORDER BY cohort_month, month_number;
 
 
 ## Результат
-![Результат когортного анализа](images/retention_result.png)
+![Результат когортного анализа]
+<img width="1920" height="1041" alt="retention_result" src="https://github.com/user-attachments/assets/21ea6500-fa4b-4607-b1cf-8cf2eae514a2" />
+
 
 ## Выводы
 - Клиенты совершают только один заказ (в данной выборке).
