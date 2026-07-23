@@ -33,7 +33,8 @@ FROM rfm
 ORDER BY monetary DESC;
 
 ## Результат
-![Результат RFM-анализа](<img width="1920" height="1039" alt="rfm_query" src="https://github.com/user-attachments/assets/75ad6372-f5a9-4885-bcb6-ba53159622a6" />)
+![Результат RFM-анализа] 
+<img width="1920" height="1039" alt="rfm_query" src="https://github.com/user-attachments/assets/75ad6372-f5a9-4885-bcb6-ba53159622a6" />
 
 ## Выводы
 - Основной доход приносят VIP-клиенты (15% базы дают 60% выручки).
